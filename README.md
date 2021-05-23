@@ -51,7 +51,7 @@ student2.ShowEXP()
 
 ```
 
-โปรแกรมฝึกพิมพ์ "Pimsampas" version 0.1
+โปรแกรมตัวอย่างของการเรียน OOP "lacschool" version 0.2
 
 
 
