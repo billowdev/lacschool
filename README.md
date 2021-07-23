@@ -55,5 +55,3 @@ student2.ShowEXP()
 
 
 
-พัฒนาโดย: lacakp
-FB: https://www.facebook.com/zerotwo.lacakkarapon
